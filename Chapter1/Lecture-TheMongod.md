@@ -25,3 +25,7 @@ use admin
 db.shutdownServer()
 exit
 ```
+
+***OBS***
+- Por padrão o MongoDB está conectado ao bando ```test```
+- Para saber qual banco de dados está sendo utilizado no momento utilize o comando ```db``` no mongo shell
